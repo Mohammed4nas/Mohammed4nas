@@ -1,16 +1,13 @@
 ## Hi there 👋
-
-<!--
-**Mohammed4nas/Mohammed4nas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Anas, I am automation and robotics Engineering based in Algeria.
+Now I am learnign Python/C/C++/arduino, i am also with design.
+I am with Photoshop and illustrator, i am ai agent.
+This a fresh profile for me now, i will be uploading small project.
+___
+**Tools & Tech**
+- Python, C, C++.
+- Photoshop, illustrator.
+- Obsidian, VsCode.
+___
+**About me**
+- 
